@@ -1,1 +1,1 @@
-What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+When would you want to use a remote repository rather than keeping all your work local?
